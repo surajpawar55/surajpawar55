@@ -22,3 +22,19 @@ Committed to supporting data-driven decision-making and delivering measurable bu
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=surajpawar55&theme=github-dark)
 
+
+## 📬 Get In Touch
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/suraj-pawar-1b8b7a277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:surajpawar95033@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+---
+
