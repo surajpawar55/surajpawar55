@@ -20,10 +20,5 @@ Committed to supporting data-driven decision-making and delivering measurable bu
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajpawar55&show_icons=true&theme=github_dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=surajpawar55&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpawar55&layout=compact&theme=github_dark)
-
----
